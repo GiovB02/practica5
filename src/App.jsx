@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router"
 import { BrowserRouter } from "react-router"
 
 import FavoritesPage from "./pages/FavoritesPage"
-import Layout from "./Layout/Layout"
+import Layout from "./layout/Layout"
 import IndexPage from "./pages/IndexPage"
 import NotificationList from "./components/Notification"
 
